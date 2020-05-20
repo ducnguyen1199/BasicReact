@@ -1,0 +1,4 @@
+export const GET_LIST_COURSE = "GET_LIST_COURSE";
+export const DETAIL_COURSE = "DETAIL_COURSE";
+export const LAY_DANH_MUC_KHOA_HOC = "LAY_DANH_MUC_KHOA_HOC";
+export const LAY_DANH_SACH_GV = "LAY_DANH_SACH_GV";
